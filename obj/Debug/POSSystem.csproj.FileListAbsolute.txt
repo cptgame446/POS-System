@@ -1,0 +1,7 @@
+C:\Users\cptga\source\repos\POSSystemApp\POSSystem\bin\Debug\POSSystem.exe.config
+C:\Users\cptga\source\repos\POSSystemApp\POSSystem\bin\Debug\POSSystem.exe
+C:\Users\cptga\source\repos\POSSystemApp\POSSystem\bin\Debug\POSSystem.pdb
+C:\Users\cptga\source\repos\POSSystemApp\POSSystem\obj\Debug\POSSystem.csprojAssemblyReference.cache
+C:\Users\cptga\source\repos\POSSystemApp\POSSystem\obj\Debug\POSSystem.csproj.CoreCompileInputs.cache
+C:\Users\cptga\source\repos\POSSystemApp\POSSystem\obj\Debug\POSSystem.exe
+C:\Users\cptga\source\repos\POSSystemApp\POSSystem\obj\Debug\POSSystem.pdb
